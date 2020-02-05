@@ -1,0 +1,16 @@
+{
+  "name": "ntask-api",
+  "version": "1.0.0",
+  "description": "Gerenciamento de Users",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Rodrigo Jacinto",
+  "license": "ISC",
+  "dependencies": {
+    "consign": "^0.1.6",
+    "express": "^4.16.4",
+    "mongodb": "^3.2.3"
+  }
+}
